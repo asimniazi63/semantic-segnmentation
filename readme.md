@@ -13,7 +13,7 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 ![UNet](Images/UNet.png)
 ## [Nested UNet (with EfficientNet Backbone)](https://arxiv.org/abs/1807.10165)
 ![UNet](Images/Unetpp.png)
-## [SegNet] (https://arxiv.org/abs/1511.00561)
+## [SegNet](https://arxiv.org/abs/1511.00561)
 ![SegNet](Images/SegNet.png)
 ## [DeepLabv3](https://arxiv.org/abs/1706.05587)
 ![DeepLabv3](Images/DeepLabv3.png)
