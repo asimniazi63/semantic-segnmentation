@@ -19,13 +19,13 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 ![DeepLabv3](Images/DeepLabv3.png)
 
 # Network Summaries
-## UNet
+## [UNet](https://arxiv.org/abs/1505.04597)
 ![UNet](Unet/model_plot_unet.png)
-## Nested UNet (with EfficientNet Backbone)
+## [Nested UNet (with EfficientNet Backbone)](https://arxiv.org/abs/1807.10165)
 ![NestedUNet](Graphs/upp_model.png)
-## SegNet
+## SegNet(https://arxiv.org/abs/1511.00561)
 Refer to the respective notebook
-## DeepLabv3
+## [DeepLabv3] (https://arxiv.org/abs/1706.05587)
 Refer  to the respective notebook
 
 
