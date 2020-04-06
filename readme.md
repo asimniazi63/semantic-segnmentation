@@ -76,13 +76,28 @@ You can find trained models in respective folders.
 ![DeepLabv3 Dice](Graphs/deep_Dice_Co-efficient.PNG)
 
 # Quantitative Results
-#UNet
+# UNet
 Results | Values
 ------------ | -------------
 Test Loss | 0.42978010276706874
 Test Accuracy | 0.8665722351216205
 Dice co-efficient |0.8034556142745479
 F1-score | 0.7157416380664551
+
+# SegNet
+Results | Values
+------------ | -------------
+Test Loss| 0.3588969517837871
+Test Accuracy| 0.8288334337147799
+Dice co-efficient | 0.8644718094305559
+F1-score| 0.6526657884771173
+
+# DeepLabv3
+Results | Values
+------------ | -------------
+Dice Loss | 0.0832267701625824
+Dice co-efficient | 0.9167312383651733
+Accuracy | 0.7988329529762268
 
 # Some Predicted Results
 ## UNet
