@@ -10,11 +10,21 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 # Diagrams
 
 ## UNet
-![Image of Yaktocat](Images/UNet.png)
+![UNet](Images/UNet.png)
 ## SegNet
-![Image of Yaktocat](Images/SegNetNet.png)
+![SegNet](Images/SegNet.png)
 ## DeepLabv3
-![Image of Yaktocat](Images/DeepLabv3.png)
+![DeepLabv3](Images/DeepLabv3.png)
+
+# Our Network Summaries
+## UNet
+![UNet](UNet/model_plot_unet.png)
+## SegNet
+Refer to the respective notebook
+## DeepLabv3
+Refer  to the respective notebook
+
+
 
 # Pre-processing
 MonuSeg datset contains 30 images for training and 14 images for testing each size of 1000x1000. 
@@ -22,14 +32,16 @@ To facilitate the training process, patches i.e. 256x256 for every images along 
 `view_as_windows`. More details can be found in `patch_generator.ipinb`. Each image in the example generates 36 patches, thus overall 1584 patches.
 
 # Pre-requistes
-
+Main packages required are:
  - Keras 2.2.3
  - Tensorflow 1.15.0
+ - Numpy
  
  
 More details can be found in respective notebooks.
 
 # Features
+Can be found in respective notebooks
  - [x] Preprocessing
  - [x] Data set Visualizations
  - [x] Networks summaries
