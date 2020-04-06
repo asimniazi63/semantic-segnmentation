@@ -1,0 +1,2 @@
+https://drive.google.com/file/d/1omPsLpxLPUafRjHsAczSmacrvGxAoCBX/view?usp=sharing
+Trained segnet model is available at above link.
