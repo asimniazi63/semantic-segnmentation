@@ -64,14 +64,17 @@ You can find trained models in respective folders.
 # Performance Graphs
 
 ## UNet
+Loss function used `binary_crossentropy`
 ![UNet](Graphs/unet_loss.PNG)
 ![UNet](Graphs/unet_Dice_coefficent.PNG)
 
 ## SegNet
+Loss function used `binary_crossentropy`
 ![SegNet](Graphs/segnet_loss.PNG)
 ![SegNet](Graphs/segnet_dice_coefficient.PNG)
 
 ## DeepLabv3
+Loss function used `dice_loss`
 ![DeepLabv3 Loss](Graphs/deep_Dice_Loss.PNG)
 ![DeepLabv3 Dice](Graphs/deep_Dice_Co-efficient.PNG)
 
