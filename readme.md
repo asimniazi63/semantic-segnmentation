@@ -2,6 +2,11 @@
 
 In this repository, we work with already created ground truth segmentation masks.
 
+# What is Segmentation Segmentation?
+The goal of semantic image segmentation is to label each pixel of an image with a corresponding class of what is being represented.
+Because we’re predicting for every pixel in the image, this task is commonly referred to as dense prediction
+
+
 # Pre-processing
 MonuSeg datset contains 30 images for training and 14 images for testing each size of 1000x1000. 
 To facilitate the training process, patches of every images along with their corresponding masks can be generated using
