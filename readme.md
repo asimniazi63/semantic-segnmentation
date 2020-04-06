@@ -40,6 +40,8 @@ Main packages required are:
  - Keras 2.2.3
  - Tensorflow 1.15.0
  - Numpy
+ - Skimage
+ - Other details available in respective notebooks
  
  
 More details can be found in respective notebooks.
@@ -64,6 +66,11 @@ This repository contains three different semantic segmentation models:
 	- supports MobileNetv2 and Xception backbone
 
 You can find trained models in respective folders.
+
+# Usage
+All the available notebooks are standalone and can be directly through Google Colab. The models can be trained by loading data from google drive
+and for inference purposes you can load saved weights from respective directories and multiple images can be from notebook. For inference only, you can
+comment `model.fit` cell in that particular notebook and you will get the results
 
 # Performance Graphs
 
