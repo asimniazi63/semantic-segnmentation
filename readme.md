@@ -61,14 +61,14 @@ This repository contains three different semantic segmentation models:
 
 You can find trained models in respective folders.
 
-#Performance Graphs
+# Performance Graphs
 
-##UNet
+## UNet
 
 ![UNet](Graphs/unet_loss.png)
 ![UNet](Graphs/unet_Dice_coefficent.png)
 
-#Quantitative Results
+# Quantitative Results
 
 
 
