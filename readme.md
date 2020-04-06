@@ -72,10 +72,17 @@ You can find trained models in respective folders.
 ![SegNet](Graphs/segnet_dice_coefficient.PNG)
 
 ## DeepLabv3
-![DeepLabv3 Loss](Graphs/deep_Dice_loss.PNG)
+![DeepLabv3 Loss](Graphs/deep_Dice_Loss.PNG)
 ![DeepLabv3 Dice](Graphs/deep_Dice_Co-efficient.PNG)
 
 # Quantitative Results
+#UNet
+Results | Values
+------------ | -------------
+Test Loss | 0.42978010276706874
+Test Accuracy | 0.8665722351216205
+Dice co-efficient |0.8034556142745479
+F1-score | 0.7157416380664551
 
 # Some Predicted Results
 ## UNet
