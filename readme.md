@@ -11,6 +11,8 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 
 ## UNet
 ![UNet](Images/UNet.png)
+## Nested UNet (with EfficientNet Backbone)
+![UNet](Images/Unetpp.png)
 ## SegNet
 ![SegNet](Images/SegNet.png)
 ## DeepLabv3
