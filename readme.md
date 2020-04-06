@@ -22,7 +22,7 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 ## UNet
 ![UNet](Unet/model_plot_unet.png)
 ## Nested UNet (with EfficientNet Backbone)
-![UNet++](Unet/upp_model.PNG)
+![UNet++](SOTA_building_block_ Nested_UNET_with_Efficient_Net_Encoder/upp_model.PNG)
 ## SegNet
 Refer to the respective notebook
 ## DeepLabv3
