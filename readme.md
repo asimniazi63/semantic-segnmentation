@@ -64,9 +64,8 @@ You can find trained models in respective folders.
 # Performance Graphs
 
 ## UNet
-
-![UNet](Graphs/unet_loss.png)
-![UNet](Graphs/unet_Dice_coefficent.png)
+![UNet](Graphs/unet_loss.PNG)
+![UNet](Graphs/unet_Dice_coefficent.PNG)
 
 # Quantitative Results
 
