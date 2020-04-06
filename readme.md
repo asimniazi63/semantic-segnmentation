@@ -59,7 +59,17 @@ This repository contains three different semantic segmentation models:
  - DeepLabv3 (Training + inference)
 	- supports MobileNetv2 and Xception backbone
 
-You can find trained models in respective folders. 
+You can find trained models in respective folders.
+
+#Performance Graphs
+##UNet
+![UNet](Graphs/UNet/loss.png)
+![UNet](Graphs/UNet/Dice_coefficent.png)
+##SegNet
+![UNet](Graphs/SegNet/loss.png)
+![UNet](Graphs/SegNet/Dice_coefficent.png)
+
+#Quantitative Results
 
 
 
