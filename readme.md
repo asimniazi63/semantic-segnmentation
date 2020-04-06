@@ -124,7 +124,7 @@ Accuracy | 0.7988329529762268
 ![UNet](Graphs/Unet_1_prediction.PNG)
 
 ## Nested UNet (UNet++) with EfficientNet Encoder
-![UNet++](Graphs/upp_1_prediction.PNG)
+![UNet++](Graphs/upp_1_predicted.PNG)
 
 ## SegNet
 ![SegNet](Graphs/segnet_1_prediction.PNG)
