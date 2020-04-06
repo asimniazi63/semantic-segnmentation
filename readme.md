@@ -72,6 +72,11 @@ Loss function used `binary_crossentropy`
 ![UNet](Graphs/unet_loss.PNG)
 ![UNet](Graphs/unet_Dice_coefficent.PNG)
 
+## Nested UNet (UNet++)
+Loss function used `binary_crossentropy`
+![UNet++](Graphs/upp_loss.PNG)
+![UNet++](Graphs/upp_dice_coef.PNG)
+
 ## SegNet
 Loss function used `binary_crossentropy`
 ![SegNet](Graphs/segnet_loss.PNG)
@@ -91,6 +96,14 @@ Test Accuracy | 0.8665722351216205
 Dice co-efficient |0.8034556142745479
 F1-score | 0.7157416380664551
 
+# Nested UNet (UNet++) with EfficientNet Encoder
+Results | Values
+------------ | -------------
+Test Loss | 0.15891806781291962
+Test Accuracy | 0.9142027497291565
+Dice Co-efficient | 0.7618255615234375
+F1-score | 0.7453052997589111
+
 # SegNet
 Results | Values
 ------------ | -------------
@@ -109,6 +122,9 @@ Accuracy | 0.7988329529762268
 # Some Predicted Results
 ## UNet
 ![UNet](Graphs/Unet_1_prediction.PNG)
+
+## Nested UNet (UNet++) with EfficientNet Encoder
+![UNet++](Graphs/upp_1_prediction.PNG)
 
 ## SegNet
 ![SegNet](Graphs/segnet_1_prediction.PNG)
