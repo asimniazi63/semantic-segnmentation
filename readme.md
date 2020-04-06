@@ -18,7 +18,7 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 
 # Network Summaries
 ## Nested UNet (with EfficientNet Backbone)
-![Nested UNet](SOTA_building_block_ Nested UNET with Efficient Net Encoder/upp_model.png)
+![Nested UNet](SOTA_building_block_ Nested UNET with Efficient Net Encoder/upp_model.PNG)
 
 ## UNet
 ![UNet](Unet/model_plot_unet.png)
