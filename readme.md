@@ -18,7 +18,7 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 
 # Our Network Summaries
 ## UNet
-Refer to the notebook
+![UNet](Unet/model_plot_unet.png)
 ## SegNet
 Refer to the respective notebook
 ## DeepLabv3
