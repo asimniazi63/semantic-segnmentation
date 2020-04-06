@@ -72,10 +72,21 @@ You can find trained models in respective folders.
 ![SegNet](Graphs/segnet_dice_coefficient.PNG)
 
 ## DeepLabv3
-![SegNet](Graphs/deep_dice_loss.PNG)
-![SegNet](Graphs/deep_Dice_Co-efficient.PNG)
+![DeepLabv3 Loss](Graphs/deep_Dice_loss.PNG)
+![DeepLabv3 Dice](Graphs/deep_Dice_Co-efficient.PNG)
 
 # Quantitative Results
+
+# Some Predicted Results
+## UNet
+![UNet](Graphs/Unet_1_prediction.PNG)
+
+## SegNet
+![SegNet](Graphs/segnet_1_prediction.PNG)
+
+## DeepLabv3
+![DeepLabv3](Graphs/deep_1_prediction.PNG)
+
 
 
 
