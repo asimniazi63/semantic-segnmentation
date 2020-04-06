@@ -2,10 +2,17 @@
 
 In this repository, we work with already created ground truth segmentation masks.
 
+# Pre-processing
+MonuSeg datset contains 30 images for training and 14 images for testing each size of 1000x1000. 
+To facilitate the training process, patches of every images along with their corresponding masks can be generated using
+`view_as_windows`. More details can be found in `patch_generator.ipinb`
+
 # Pre-requistes
 
  - Keras 2.2.3
  - Tensorflow 1.15.0
+ 
+ 
 More details can be found in respective notebooks.
 
 # Features
@@ -20,20 +27,13 @@ More details can be found in respective notebooks.
 # Models
 
 This repository contains three different semantic segmentation models:
- - UNet
- - SegNet (supports indices pooling)
- - DeepLabv3
+ - UNet (Training + inference)
+ - SegNet (Training + inference)
+	- supports indices pooling)
+ - DeepLabv3 (Training + inference)
+	- supports MobileNetv2 and Xception backbone
 
 You can find trained models in respective folders. 
-
-## Dataset directory format
-
-    -->Training
-    -----Images
-    -----Masks
-    -->Validation
-    -----Images
-    -----Masks
 
 
 
