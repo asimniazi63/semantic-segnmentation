@@ -17,11 +17,10 @@ are bio-medical diagnosis, Geo-Sensing, automous vehicles etc.
 ![DeepLabv3](Images/DeepLabv3.png)
 
 # Network Summaries
-## Nested UNet (with EfficientNet Backbone)
-![Nested UNet](SOTA_building_block_ Nested_UNET_with_Efficient_Net_Encoder/upp_model.PNG)
-
 ## UNet
 ![UNet](Unet/model_plot_unet.png)
+## Nested UNet (with EfficientNet Backbone)
+Refer to the respective notebook
 ## SegNet
 Refer to the respective notebook
 ## DeepLabv3
